@@ -10,7 +10,12 @@
 .DS_Store
 /build
 /captures
+/signing
+/app/debug
+/app/release
 /app/google-services.json
 .externalNativeBuild
 .cxx
 local.properties
+keystore.properties
+
