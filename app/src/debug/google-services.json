@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "300605163575",
+    "project_id": "timberapp-a8910",
+    "storage_bucket": "timberapp-a8910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300605163575:android:229ab894000434838a57b2",
+        "android_client_info": {
+          "package_name": "com.jcjiron.timberapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8a0JXKHf-JVucMjK8bMQRdJ5viYBGUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300605163575:android:73a8907f99f60ba48a57b2",
+        "android_client_info": {
+          "package_name": "com.jcjiron.timberapp.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8a0JXKHf-JVucMjK8bMQRdJ5viYBGUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
